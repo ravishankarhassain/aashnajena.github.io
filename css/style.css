@@ -83,6 +83,15 @@ a:hover {
   overflow: hidden;
 }
 
+.white-text {
+  color:white;
+}
+
+.logo-img {
+  margin:2rem;
+  border-radius: 200px;
+}
+
 .bg-image {
   background-repeat: no-repeat;
   background-attachment: fixed;
